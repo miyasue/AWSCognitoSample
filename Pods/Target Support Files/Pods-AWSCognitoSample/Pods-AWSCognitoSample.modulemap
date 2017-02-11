@@ -1,0 +1,6 @@
+framework module Pods_AWSCognitoSample {
+  umbrella header "Pods-AWSCognitoSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
